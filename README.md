@@ -39,6 +39,7 @@ Những người vỡ nợ bị ép ký vào **“Hợp Đồng Sinh Tồn”** 
 ## 3. Demo Gameplay
 
 <div align="center">
+    
     <img width="80%" src="images/1.png" alt="Map 1 - World" />
     <p><i><b>Hình 1:</b> Map 1 - Khởi đầu cuộc hành trình tại khu rừng phóng xạ Sector 2098</i></p>
     <br>
@@ -49,6 +50,7 @@ Những người vỡ nợ bị ép ký vào **“Hợp Đồng Sinh Tồn”** 
 
     <img width="80%" src="images/3.png" alt="Map 3 - Boss Battle" />
     <p><i><b>Hình 3:</b> Map 3 - Đại chiến Boss Rồng tại khu vực trung tâm hầm mỏ</i></p>
+    
 </div>
 
 ---
