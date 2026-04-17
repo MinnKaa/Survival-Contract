@@ -4,7 +4,7 @@
     </a>
 </h2>
 <h2 align="center">
-   Survival Contract: Sector 2098
+   Survival Contract
 </h2>
 <div align="center">
     <p align="center">
@@ -71,14 +71,20 @@ Những người vỡ nợ bị ép ký vào **“Hợp Đồng Sinh Tồn”** 
 
 ## 7. Cài đặt
 
-# Clone project
+- Clone project
 git clone [https://github.com/MinnKaa/Survival-Contract.git]
 
-# Vào thư mục
+- Vào thư mục
 cd survival-contract
 
-# Cài thư viện cần thiết
+- Cài thư viện cần thiết
 pip install pygame pytmx mediapipe opencv-python
 
-# Chạy game
+- Chạy game
 python code/main.py
+
+---
+## 8. Thành viên
+
+### 1.Vũ Đức Minh - CNTT16_02
+### 2.Đỗ Quốc VIệt - CNTT16_02
