@@ -37,8 +37,9 @@ Những người vỡ nợ bị ép ký vào **“Hợp Đồng Sinh Tồn”** 
 
 ## 3. Demo
 <div align="center">
-    <img width="45%" src="https://via.placeholder.com/400x300.png?text=Gameplay+Map+1" />
-    <img width="45%" src="https://via.placeholder.com/400x300.png?text=Dragon+Boss+Battle" />
+    <img width="45%" src="images/1.png/400x300.png?text=Gameplay+Map 1" />
+    <img width="45%" src="images/2.png/400x300.png?text=Map 2" />
+    <img width="45%" src="images/3.png/400x300.png?text=Boss" />
 </div>
 
 ---
