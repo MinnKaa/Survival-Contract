@@ -74,9 +74,6 @@ Những người vỡ nợ bị ép ký vào **“Hợp Đồng Sinh Tồn”** 
 - Clone project
 git clone [https://github.com/MinnKaa/Survival-Contract.git]
 
-- Vào thư mục
-cd survival-contract
-
 - Cài thư viện cần thiết
 pip install pygame pytmx mediapipe opencv-python
 
@@ -86,5 +83,5 @@ python code/main.py
 ---
 ## 8. Thành viên
 
-### 1.Vũ Đức Minh - CNTT16_02
-### 2.Đỗ Quốc VIệt - CNTT16_02
+ 1.Vũ Đức Minh - CNTT16_02
+ 2.Đỗ Quốc VIệt - CNTT16_02
