@@ -36,7 +36,6 @@ Những người vỡ nợ bị ép ký vào **“Hợp Đồng Sinh Tồn”** 
 ---
 
 ## 3. Demo
-## 3. Demo Gameplay
 
 <div align="center">
     <img width="80%" src="images/1.png" alt="Map 1 - World" />
