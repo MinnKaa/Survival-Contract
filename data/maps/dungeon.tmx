@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.12.1" orientation="orthogonal" renderorder="right-down" width="30" height="20" tilewidth="64" tileheight="64" infinite="0" nextlayerid="18" nextobjectid="275">
+ <tileset firstgid="1" source="../../../Downloads/a.tsx"/>
+ <tileset firstgid="513" source="../tilesets/world_tileset.tsx"/>
+ <tileset firstgid="723" source="../tilesets/Objects.tsx"/>
+ <layer id="14" name="Ground" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztlssNwCAIQBunc6u2x6ZbOInXblVNJCGUoPjh1MO7WPRFBNLdbdthzJm4Ek8nvqDdd3d6Q2GWF84JCMkrxVh4a3E1b+sdWrx5LRbo91VecEL+YsUr5UZbdxG5W7wzCE6XZyt+73cWQT+v9noGzWyCGK6eRu8bEXSv1Lej70u9OB/U2zIne9zUS/uWe5+Z9czNTgtvTz1b/+dkXrfrqIo=
+  </data>
+ </layer>
+ <objectgroup id="15" name="Entities">
+  <object id="171" name="Enemy" x="512" y="192">
+   <point/>
+  </object>
+  <object id="194" name="Enemy" x="768" y="192">
+   <point/>
+  </object>
+  <object id="195" name="Enemy" x="1216" y="256">
+   <point/>
+  </object>
+  <object id="196" name="Enemy" x="1152" y="192">
+   <point/>
+  </object>
+  <object id="197" name="Enemy" x="1408" y="192">
+   <point/>
+  </object>
+  <object id="198" name="Enemy" x="1600" y="192">
+   <point/>
+  </object>
+  <object id="199" name="Enemy" x="1728" y="320">
+   <point/>
+  </object>
+  <object id="200" name="Enemy" x="1792" y="448">
+   <point/>
+  </object>
+  <object id="201" name="Enemy" x="1792" y="576">
+   <point/>
+  </object>
+  <object id="202" name="Enemy" x="1792" y="768">
+   <point/>
+  </object>
+  <object id="203" name="Enemy" x="1728" y="960">
+   <point/>
+  </object>
+  <object id="204" name="Enemy" x="1664" y="896">
+   <point/>
+  </object>
+  <object id="205" name="Enemy" x="1536" y="1216">
+   <point/>
+  </object>
+  <object id="206" name="Enemy" x="1792" y="1152">
+   <point/>
+  </object>
+  <object id="207" name="Enemy" x="1088" y="1216">
+   <point/>
+  </object>
+  <object id="208" name="Enemy" x="1024" y="1088">
+   <point/>
+  </object>
+  <object id="209" name="Enemy" x="768" y="1088">
+   <point/>
+  </object>
+  <object id="210" name="Enemy" x="512" y="1088">
+   <point/>
+  </object>
+  <object id="211" name="Enemy" x="896" y="1152">
+   <point/>
+  </object>
+  <object id="212" name="Enemy" x="448" y="1152">
+   <point/>
+  </object>
+  <object id="213" name="Enemy" x="192" y="1024">
+   <point/>
+  </object>
+  <object id="214" name="Enemy" x="192" y="1088">
+   <point/>
+  </object>
+  <object id="215" name="Enemy" x="320" y="1152">
+   <point/>
+  </object>
+  <object id="217" name="Enemy" x="192" y="768">
+   <point/>
+  </object>
+  <object id="218" name="Enemy" x="128" y="448">
+   <point/>
+  </object>
+  <object id="219" name="Enemy" x="128" y="192">
+   <point/>
+  </object>
+  <object id="220" name="Enemy" x="192" y="576">
+   <point/>
+  </object>
+  <object id="221" name="Player" x="960" y="576">
+   <point/>
+  </object>
+  <object id="274" x="2432" y="64"/>
+ </objectgroup>
+ <objectgroup id="16" name="Collisions">
+  <object id="222" x="-64" y="-128" width="1984" height="192"/>
+  <object id="223" x="1856" y="-64" width="256" height="1344"/>
+  <object id="224" x="-64" y="1216" width="1984" height="192"/>
+  <object id="225" x="-128" y="-64" width="192" height="1280"/>
+  <object id="264" x="960" y="64" width="128" height="128"/>
+  <object id="265" x="1472" y="320" width="128" height="256"/>
+  <object id="266" x="1408" y="384" width="256" height="128"/>
+  <object id="267" x="192" y="192" width="128" height="128"/>
+  <object id="268" x="384" y="768" width="192" height="192"/>
+  <object id="269" x="256" y="832" width="128" height="64"/>
+  <object id="270" x="832" y="896" width="192" height="128"/>
+  <object id="271" x="896" y="1024" width="128" height="64"/>
+  <object id="272" x="1344" y="832" width="128" height="256"/>
+  <object id="273" x="1280" y="896" width="256" height="128"/>
+ </objectgroup>
+ <objectgroup id="17" name="Objects">
+  <object id="244" gid="728" x="1088" y="704" width="128" height="192"/>
+  <object id="245" gid="728" x="448" y="576" width="128" height="192"/>
+  <object id="246" gid="728" x="384" y="896" width="128" height="192"/>
+  <object id="247" gid="728" x="1344" y="1024" width="128" height="192"/>
+  <object id="248" gid="728" x="1472" y="512" width="128" height="192"/>
+  <object id="249" gid="732" x="768" y="640" width="60" height="60"/>
+  <object id="250" gid="732" x="832" y="640" width="60" height="60"/>
+  <object id="251" gid="732" x="832" y="704" width="60" height="60"/>
+  <object id="252" gid="732" x="768" y="704" width="60" height="60"/>
+  <object id="253" gid="729" x="640" y="320" width="64" height="192"/>
+  <object id="254" gid="729" x="64" y="640" width="64" height="192"/>
+  <object id="255" gid="729" x="1344" y="896" width="64" height="192"/>
+  <object id="256" gid="729" x="1280" y="320" width="64" height="192"/>
+  <object id="257" gid="734" x="896" y="1024" width="128" height="192"/>
+  <object id="258" gid="734" x="192" y="320" width="128" height="192"/>
+  <object id="259" gid="734" x="960" y="192" width="128" height="192"/>
+  <object id="260" gid="730" x="896" y="384" width="64" height="104"/>
+  <object id="261" gid="730" x="960" y="384" width="64" height="104"/>
+  <object id="262" gid="730" x="256" y="896" width="64" height="104"/>
+  <object id="263" gid="730" x="576" y="1216" width="64" height="104"/>
+ </objectgroup>
+</map>
